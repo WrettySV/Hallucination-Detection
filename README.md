@@ -50,5 +50,4 @@ Per hallucination type:
 - The final notebooks already contain executed outputs.
 - The helper scripts are included for reproducibility.
 - `Extra_Experiments.md` mentions extra notebooks, but those notebook files are not present in this cloned repository.
-- Existing files were not modified when this README was added.
 
