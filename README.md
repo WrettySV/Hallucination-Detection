@@ -21,8 +21,7 @@ The labels are span-based and follow a RAGTruth-style format:
 
 | File | Purpose |
 |---|---|
-| `final_notebook_hallucination_detection.ipynb` | Main project notebook with dataset generation, baseline evaluation, and improved model experiment. |
-| `final_notebook_hallucination_detection_sumbission.ipynb` | Submission-style notebook. The filename has a typo in `sumbission`, but the file is kept unchanged. |
+| `final_notebook_hallucination_detection_sumbission.ipynb` | Main project notebook with dataset generation, baseline evaluation, and improved model experiment. |
 | `lettuce_baseline.py` | Helper code for LettuceDetect baseline evaluation. |
 | `lookback_baseline.py` | Helper code for the LookBackLens-style attention baseline. |
 | `toolaware_deberta_baseline.py` | Helper code for the improved tool-aware DeBERTa model. |
